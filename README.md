@@ -30,7 +30,6 @@ Got introduced into programming in 2023 fall and had been lost in a web developm
 
 ### 💼 Latest Projects
 
-<br>
 
 - **[Ad Portal](https://github.com/Skelbimai-2grupe)**
   - **Tech Stack:** React, CSS, Javascript, Node.js, MongoDB
