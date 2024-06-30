@@ -9,7 +9,7 @@ Got introduced into programming in 2023 fall and had been lost in a web developm
 - 📫 Reach me @ https://www.linkedin.com/in/kestulka
 
 ### 🧰 Languages and Tools
-<br>
+
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="SASS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
@@ -26,37 +26,34 @@ Got introduced into programming in 2023 fall and had been lost in a web developm
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br>
 <br>
-<br>
 
 ### 💼 Latest Projects
 <br>
-- **[Ad Portal](https://github.com/Skelbimai-2grupe)**
 
-  - **Tech Stack:** React, Node.js, MongoDB
+- **[Ad Portal](https://github.com/Skelbimai-2grupe)**
+  - **Tech Stack:** React, CSS, Javascript, Node.js, MongoDB
   - **Position:** Project Lead
 
 - **[Finance Management App](https://github.com/Finance-Managment)**
-
-  - **Tech Stack:** Javascript, Node.js, Express, MongoDB
+  - **Tech Stack:** HTML, CSS, Javascript, Node.js, MongoDB
   - **Position:** Backend Lead
 
 - **[Lunch Menu Project](https://github.com/lunch-menu-project)**
-
-  - **Tech Stack:** HTML, CSS, JavaScript, DOM
+  - **Tech Stack:** HTML, CSS, JavaScript, Local Storage, DOM
   - **Position:** Project Lead
 
-- **[Countries API Fetch](https://github.com/kestulka/reactCountries)**
-
-  - **Tech Stack:** React, REST API
-
 - **[Goals App](https://github.com/kestulka/pernGoalsApp)**
-
-  - **Tech Stack:** PostgreSQL, Express, React, Node.js
+  - **Tech Stack:** React Redux, CSS, PostgreSQL, Node.js
+    
+- **[Countries API Fetch](https://github.com/kestulka/reactCountries)**
+  - **Tech Stack:** React, CSS, Javascript, Node.js
 
 - **E-Commerce Website (In Progress...)**
-  - **Tech Stack:** Typescript, React, MySQL
+  - **Tech Stack:** Typescript, SASS, React, MySQL, Node.js
+
 <br>
-And a bin🗑️ of code from practices and unfinished projects:
-<a href="https://github.com/kestulka?tab=repositories" style="vertical-align: middle;" >
+
+<p>And a bin🗑️ of code from practices and unfinished projects </p>
+<a href="https://github.com/kestulka?tab=repositories">
 <img alt="Repositories" title="Repositories" src="https://custom-icon-badges.demolab.com/badge/Repositories-blue?style=for-the-badge&logo=github"/>
 </a>
