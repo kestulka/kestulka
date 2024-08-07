@@ -4,7 +4,7 @@
 
 Got introduced into programming in 2023 fall and had been lost in a web development journey since🤓 Currently working on building full stack web applications with various frameworks and libraries📚
 
-- 📍 Currently working on Web App testing using Cypress🧪
+- 📍 Currently working on data analytics using Python🐍
 - 📫 Reach me @ https://www.linkedin.com/in/kestulka
 
 ### 🧰 Languages and Tools
