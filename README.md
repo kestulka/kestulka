@@ -1,11 +1,11 @@
-# Kęstutis G.
+# Kęstutis
 
 **`Junior Dev `**
 
-Got introduced into programming in 2023 fall and had been lost in a web development journey since🤓 Currently working on building full stack web applications with various frameworks and libraries📚
+Got introduced into programming in 2023 fall and had been lost in a web development journey since🤓
 
-- 📍 Currently working on data analytics using Python🐍
-- 📫 Reach me @ https://www.linkedin.com/in/kestulka
+- 📍 Currently working on data scraping using Python/JS
+- 📫 Lets connect @ https://www.linkedin.com/in/kestulka
 
 ### 🧰 Languages and Tools
 
