@@ -4,7 +4,7 @@
 
 Got introduced into programming in 2023 fall and had been lost in a web development journey since🤓
 
-- 📍 Currently working on data scraping using Python/JS
+- 📍 Currently working on social blog website using Next.js
 - 📫 Lets connect @ https://www.linkedin.com/in/kestulka
 
 ### 🧰 Languages and Tools
@@ -49,7 +49,7 @@ Got introduced into programming in 2023 fall and had been lost in a web developm
 - **[Countries API Fetch](https://github.com/kestulka/reactCountries)**
   - **Tech Stack:** React, CSS, Javascript, Node.js
 
-- **E-Commerce Website (In Progress...)**
+- **Social Blog Website (In Progress...)**
   - **Tech Stack:** Typescript, SASS, React, MySQL, Node.js
 
 <br>
